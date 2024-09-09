@@ -1,0 +1,1 @@
+ /Users/jasperkaucky/Dev/compass/.dart_tool/flutter_build/9bd0aa83e85331ddb3d394b62a38dacd/native_assets.yaml: 
